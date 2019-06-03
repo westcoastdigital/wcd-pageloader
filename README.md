@@ -12,19 +12,27 @@ Add a custom page loader to your website and choose whether you want to display 
 
 ## Installation
 
+### From GitHub
+* 1 Click on Clone or Download button.
+* 2 Click on Download Zip
+* 3 Upload the 'Custom Page Loader' directory to your '/wp-content/plugins/' directory, using your favorite method (ftp, sftp, scp, etc...)
+* 4 Activate 'Custom Page Loader' from your Plugins page.
+* 5 Visit the 'Page Loader' section in the customiser.
+* 6 Configure and style to your needs.
+
 ### From your WordPress dashboard
-1 Visit 'Plugins > Add New'
-2 Search for 'Custom Page Loader'.
-3 Activate Custom Page Loader from your Plugins page.
-4 Visit the 'Page Loader' section in the customiser.
-5 Configure and style to your needs.
+* 1 Visit 'Plugins > Add New'.
+* 2 Search for 'Custom Page Loader'.
+* 3 Activate Custom Page Loader from your Plugins page.
+* 4 Visit the 'Page Loader' section in the customiser.
+* 5 Configure and style to your needs.
 
 ### From WordPress.org
-1 Download 'Custom Page Loader'.
-2 Upload the 'Custom Page Loader' directory to your '/wp-content/plugins/' directory, using your favorite method (ftp, sftp, scp, etc...)
-3 Activate 'Custom Page Loader' from your Plugins page.
-4 Visit the 'Page Loader' section in the customiser.
-5 Configure and style to your needs.
+* 1 Download 'Custom Page Loader'.
+* 2 Upload the 'Custom Page Loader' directory to your '/wp-content/plugins/' directory, using your favorite method (ftp, sftp, scp, etc...)
+* 3 Activate 'Custom Page Loader' from your Plugins page.
+* 4 Visit the 'Page Loader' section in the customiser.
+* 5 Configure and style to your needs.
 
 ## Frequently Asked Questions
 ### Can I use the plugin with any theme?
