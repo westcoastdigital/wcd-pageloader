@@ -3,7 +3,7 @@
 Plugin Name: Custom Page Loader
 Plugin URI: https://github.com/WestCoastDigital/wcd-pageloader
 Description: Add a page loader to your website
-Version: 0.1.0
+Version: 0.2.0
 Author: West Coast Digital
 Author URI: https://westcoastdigital.com.au
 Text Domain: wcd
@@ -193,7 +193,7 @@ class wcdPageLoader
     public function customiser_enqueue()
     {
         wp_enqueue_script('jquery');
-        // wp_enqueue_script('wcd-pageloader-customiser', plugins_url('/customiser.js', __FILE__));
+        wp_enqueue_script('wcd-pageloader-customiser', plugins_url('/customiser.js', __FILE__));
     }
 
     public function enqueue_scripts()
